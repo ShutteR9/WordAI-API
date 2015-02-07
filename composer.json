@@ -1,0 +1,13 @@
+{
+    "name": "shutter9/wordai-php-api",
+    "description": "An easy to use wrapper around WordAI's article spinning service.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Brandon Johnson",
+            "email": "bluejd910@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
